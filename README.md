@@ -1,19 +1,28 @@
-<H1><bold>Practice Questions for Basic Robotics Challenges</bold></H1>
+# Basic Programming Challenges
 
-<p><h3>Are you ready to dive into the exciting world of robotics programming?🤖</h3></p>
+A collection of beginner-friendly C programming problems to build foundational skills for robotics enthusiasts. These challenges help in mastering logic, loops, and conditional statements, preparing you for real-world robotics applications.
 
-<p>Start practicing with foundational C language coding challenges tailored specifically for robotics enthusiasts.
-These questions are designed to help you strengthen your logical thinking, understand hardware integration, and prepare for real-world robotics applications.</p>
+## Challenges Included
 
-<h3>What You'll Learn:</h3>
-<p>
-Writing efficient code to control sensors and motors.
-Understanding how to interface microcontrollers with external components.
-Applying algorithms to solve robotics-specific problems like line-following, obstacle detection, and basic movement control.</p>
+1. **Odd or Even Check**: Determine if a number is odd or even.
+2. **Equilateral Triangle Check**: Verify if a triangle is equilateral.
+3. **Right-Angled Triangle Check**: Use side lengths to check if a triangle is right-angled.
+4. **Quadrant Finder**: Identify the quadrant of a point (x, y).
+5. **Maximum of Three Numbers**: Find the largest of three numbers.
+6. **Number Sign Check**: Determine if a number is positive, negative, or zero.
+7. **Leap Year Checker**: Check if a year after 2000 is a leap year.
+8. **Vowel Checker**: Check if a character is a vowel.
+9. **Multiplication Table**: Print the table of 3 up to 10.
+10. **Digit Count and Sum**: Count digits and calculate their sum.
+11. **Fibonacci Series**: Generate the Fibonacci series up to n terms.
+12. **Factorial Calculator**: Compute the factorial of a number.
+13. **Divisors Finder**: List all divisors of a given number.
 
-<h3>Key Features:</h3>
-<p>
-Beginner-friendly examples.
-Real-world scenarios to apply your coding knowledge.
-Hands-on practice with robotics components like IR sensors, motors, and encoders.
-Start solving and take your first step toward mastering robotics programming!</p>
+## How to Use
+1. Clone this repository.
+2. Solve each challenge in C to improve your robotics programming skills.
+3. Test your solutions and modify them for better efficiency.
+
+---
+
+### Happy Coding! 🚀
